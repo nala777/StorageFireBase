@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588883125129",
+    "project_id": "myapp-373907",
+    "storage_bucket": "myapp-373907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588883125129:android:1d583bfab7f32500613758",
+        "android_client_info": {
+          "package_name": "greta.cda.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588883125129-jj6eb4d3k3qj8goiujahca1bnmtmrhpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1iaGZb4SoKhVFhWYC2ZXnnX2LF782ySI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588883125129-jj6eb4d3k3qj8goiujahca1bnmtmrhpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
